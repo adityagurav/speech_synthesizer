@@ -1,3 +1,9 @@
+<html>
+<head>speech-synthesizer</head>
+<body>
+
+
+
 ## import libraries
 
 from tkinter import *
@@ -57,3 +63,9 @@ Button(root, text = 'RESET', font='arial 15 bold', command = Reset).place(x=175 
 
 #infinite loop to run program
 root.mainloop()
+
+
+
+
+</body>
+</html>
