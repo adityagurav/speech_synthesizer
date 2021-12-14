@@ -23,7 +23,7 @@ root.title('SPEECH-SYNTHESIZER')
 
 ##heading
 Label(root, text = 'SPEECH_SYNTHESIZER' , font='arial 20 bold' , bg ='white smoke').pack()
-Label(root, text ='Aditya.Gurav' , font ='arial 15 bold', bg = 'white smoke').pack(side = BOTTOM)
+Label(root, text ='Tanushree Sahoo & Aditya Gurav' , font ='arial 15 bold', bg = 'white smoke').pack(side = BOTTOM)
 
 
 
